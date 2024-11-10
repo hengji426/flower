@@ -128,7 +128,7 @@ function setup() {
 
 function draw() {
   orbitControl();
-  background(250);
+  background(230);
 
   // updating the view
   view.viewDisplay();
